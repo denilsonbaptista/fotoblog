@@ -42,7 +42,7 @@ body {
 }
 
 main {
-  overflow-y: scroll;
+  overflow-y: auto;
   background-color: var(--color-base-gray-100);
 }
 
